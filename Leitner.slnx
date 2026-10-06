@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Leitner/Leitner.csproj" />
+  </Folder>
+</Solution>

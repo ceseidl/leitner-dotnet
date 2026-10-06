@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "tema": "Computação",
+    "resumo": "Hospedar ASP.NET Core com pouca configuração",
+    "resposta": "Azure App Service"
+  },
+  {
+    "id": 2,
+    "tema": "Computação",
+    "resumo": "Orquestrar e escalar contêineres Docker",
+    "resposta": "Google Kubernetes Engine"
+  },
+  {
+    "id": 3,
+    "tema": "Computação",
+    "resumo": "Executar código por evento, sem servidor",
+    "resposta": "Azure Functions / AWS Lambda"
+  },
+  {
+    "id": 4,
+    "tema": "Armazenamento e dados",
+    "resumo": "Guardar arquivos estáticos com alta durabilidade",
+    "resposta": "Amazon S3"
+  },
+  {
+    "id": 5,
+    "tema": "Armazenamento e dados",
+    "resumo": "Banco relacional gerenciado no Azure",
+    "resposta": "Azure SQL Database"
+  },
+  {
+    "id": 6,
+    "tema": "Armazenamento e dados",
+    "resumo": "Data warehouse analítico no Google Cloud",
+    "resposta": "BigQuery"
+  },
+  {
+    "id": 7,
+    "tema": "Identidade e segurança",
+    "resumo": "Autenticar usuários de uma aplicação no Azure",
+    "resposta": "Microsoft Entra ID"
+  },
+  {
+    "id": 8,
+    "tema": "Identidade e segurança",
+    "resumo": "Guardar segredos e chaves no Azure",
+    "resposta": "Azure Key Vault"
+  },
+  {
+    "id": 9,
+    "tema": "Identidade e segurança",
+    "resumo": "Conceder só as permissões necessárias",
+    "resposta": "Menor privilégio (IAM)"
+  },
+  {
+    "id": 10,
+    "tema": "Rede e custos",
+    "resumo": "Distribuir conteúdo entre regiões, baixa latência",
+    "resposta": "Amazon CloudFront"
+  },
+  {
+    "id": 11,
+    "tema": "Rede e custos",
+    "resumo": "Desacoplar serviços com fila de mensagens na AWS",
+    "resposta": "Amazon SQS"
+  },
+  {
+    "id": 12,
+    "tema": "Rede e custos",
+    "resumo": "Ser avisado quando o gasto passar de um limite",
+    "resposta": "Orçamentos e alertas de custo"
+  }
+]
